@@ -5,3 +5,4 @@ streamlit<1.22.0
 streamlit_option_menu==0.3.4
 urllib3==1.26.15
 yfinance<0.2.18
+requests-toolbelt==0.10.1
