@@ -217,7 +217,7 @@ if selected == "Lectures":
     st.title("Videos")
 
     st.title("Lesson 1")
-    video_file = open("C:\webapp\Video.mp4", "rb")
+    video_file = open("Video.mp4", "rb")
     video_bytes = video_file.read()
 
     st.video(video_bytes)
